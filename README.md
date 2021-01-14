@@ -5,11 +5,9 @@ Home: https://pypi.org/project/jsonLookup/
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-colorfield-feedstock/blob/master/LICENSE.txt)
 
 Summary: django-colorfield, simple color field for your models with a nice color-picker in the admin-interface.
-
-
 
 Current build status
 ====================
