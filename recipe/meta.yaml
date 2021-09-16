@@ -1,5 +1,5 @@
 {% set name = "django-colorfield" %}
-{% set version = "0.4.2" %}
+{% set version = "0.4.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 5624a23e2fe97066f45e56eedf9672ab545aa5e52a790cfc33a5f29160a70684
+  sha256: 218932da7275ded152d0119131efde72e33b52abf88be4c14f8ffea799a112c4
 
 build:
   number: 0
