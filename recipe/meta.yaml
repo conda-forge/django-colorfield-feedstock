@@ -1,5 +1,5 @@
 {% set name = "django-colorfield" %}
-{% set version = "0.10.1" %}
+{% set version = "0.11.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 1e862bef9e73308499f366ab61190554fba366aa54d5fb1eba378ed2a04bc93d
+  sha256: 05c38c8eb2a94938b810a19b2011846391a4ce71d1c92e88a35974fbcc8fc62e
 
 build:
   number: 0
@@ -28,7 +28,7 @@ test:
     - colorfield
 
 about:
-  home: https://pypi.org/project/jsonLookup/
+  home: https://github.com/fabiocaccamo/django-colorfield
   summary: django-colorfield, simple color field for your models with a nice color-picker in the admin-interface.
   license: MIT
   license_file: LICENSE.txt
