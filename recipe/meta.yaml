@@ -28,7 +28,7 @@ test:
     - colorfield
 
 about:
-  home: https://pypi.org/project/jsonLookup/
+  home: https://github.com/fabiocaccamo/django-colorfield
   summary: django-colorfield, simple color field for your models with a nice color-picker in the admin-interface.
   license: MIT
   license_file: LICENSE.txt
