@@ -3,7 +3,7 @@ About django-colorfield-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/django-colorfield-feedstock/blob/main/LICENSE.txt)
 
-Home: https://pypi.org/project/jsonLookup/
+Home: https://github.com/fabiocaccamo/django-colorfield
 
 Package license: MIT
 
